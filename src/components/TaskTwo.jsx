@@ -3,10 +3,7 @@ import React, { useState } from 'react';
 export default function TaskTwo() 
 
 
-
 {
-
-
 
 
   const [color, setColor] = useState('#ffffff');
